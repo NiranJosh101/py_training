@@ -1,0 +1,11 @@
+A legacy system is any outdated computing system, hardware or software that is still in use. Legacy systems include computer hardware, software applications, file formats and programming languages. However, not all legacy systems are obsolete technologies. Most legacy systems work even if they are outdated, and enterprises will often continue using legacy systems that are critical to their daily functions and business needs.
+
+Applications, systems and other technologies become legacy IT systems for the following reasons:
+
+They no longer receive updates, support or maintenance from their software developers or creators.
+They are no longer available for purchase or depend on obsolete technology to run and maintain.
+In the case of hardware such as mainframes, they are no longer able to support an organization's software.
+The system requires IT professionals with complex, largely outdated technology skill sets such as Common Business-Oriented Language, or COBOL, programming to maintain. These professionals can be difficult to find and costly to hire.
+Repairs take too long compared with new systems.
+Maintenance costs become too excessive to continue.
+They are overexposed to security vulnerabilities and cannot be updated to meet modern cybersecurity standards.
